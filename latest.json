@@ -1,7 +1,7 @@
 {
- "version": "0.11",
- "code": 11,
- "apk": "https://raw.githubusercontent.com/stelliossteven-dev/fthongos-app/main/apk/fthongos-0.11.apk",
- "sha256": "251bd025e26a59214a11f13b6d9d346042c8ad30c9f0cb727b8d1fe6b881bc66",
- "notes": "Το μικρόφωνο δεν σταματά πια τον ήχο άλλων εφαρμογών, πιο συνεχής αναγνώριση από ηχείο, ακρόαση που συνεχίζει στο μικρό παράθυρο, πρότυπο από σύνδεσμο ή αρχείο με φθόγγους και ίσα."
+ "version": "0.12",
+ "code": 12,
+ "apk": "https://raw.githubusercontent.com/stelliossteven-dev/fthongos-app/main/apk/fthongos-0.12.apk",
+ "sha256": "d33917b7b79d15109321bba7d2763db7efa46571f5680cc7b8e573859d41c2d9",
+ "notes": "Η ειδοποίηση νέας έκδοσης εμφανίζεται πλέον σωστά· στις ρυθμίσεις υπάρχει «Έκδοση εφαρμογής» με κουμπί ελέγχου."
 }
