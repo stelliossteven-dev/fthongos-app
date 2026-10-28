@@ -1,0 +1,7 @@
+{
+ "version": "0.10",
+ "code": 10,
+ "apk": "https://raw.githubusercontent.com/stelliossteven-dev/fthongos-app/main/apk/fthongos-0.10.apk",
+ "sha256": "ad2c104576c336422ad73a5cf46fd7a188aa089e039e9c9664dde4395c7b2530",
+ "notes": "Πρώτη έκδοση: ζωντανή αναγνώριση από το μικρόφωνο, ασκήσεις, πρόοδος, μικρό παράθυρο πάνω από άλλες εφαρμογές."
+}
