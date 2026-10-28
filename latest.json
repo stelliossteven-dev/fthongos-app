@@ -1,7 +1,7 @@
 {
- "version": "0.10",
- "code": 10,
- "apk": "https://raw.githubusercontent.com/stelliossteven-dev/fthongos-app/main/apk/fthongos-0.10.apk",
- "sha256": "ad2c104576c336422ad73a5cf46fd7a188aa089e039e9c9664dde4395c7b2530",
- "notes": "Πρώτη έκδοση: ζωντανή αναγνώριση από το μικρόφωνο, ασκήσεις, πρόοδος, μικρό παράθυρο πάνω από άλλες εφαρμογές."
+ "version": "0.11",
+ "code": 11,
+ "apk": "https://raw.githubusercontent.com/stelliossteven-dev/fthongos-app/main/apk/fthongos-0.11.apk",
+ "sha256": "251bd025e26a59214a11f13b6d9d346042c8ad30c9f0cb727b8d1fe6b881bc66",
+ "notes": "Το μικρόφωνο δεν σταματά πια τον ήχο άλλων εφαρμογών, πιο συνεχής αναγνώριση από ηχείο, ακρόαση που συνεχίζει στο μικρό παράθυρο, πρότυπο από σύνδεσμο ή αρχείο με φθόγγους και ίσα."
 }
